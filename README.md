@@ -1,5 +1,16 @@
-# Weather Detection
-Hi I made this project using <b><i>Python</i></b>.
+## 🖐️Hi folks. I'm Rushabh Koradia
+
+## Project Title ##
+> Weather Detection
+
+## Language(s) Used ##
+> ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+## Project Information ##
+```
+This project detects weather based on the specific location. Its a simple project made for beginners.
+```
+
 <p>You can follow me on:</p>
 <ul>
   <li><a href="https://www.linkedin.com/in/rushabh-koradia/">LinkedIn</a>
